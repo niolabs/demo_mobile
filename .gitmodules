@@ -31,3 +31,6 @@
 [submodule "blocks/join"]
 	path = blocks/join
 	url = git://github.com/nio-blocks/join.git
+[submodule "blocks/sliding_window"]
+  path = blocks/sliding_window
+  url = git://github.com/32bitkid/sliding_window.git
