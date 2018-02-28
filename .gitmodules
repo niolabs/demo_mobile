@@ -40,7 +40,7 @@
 [submodule "blocks/twilio"]
     path = blocks/twilio
     url = git://github.com/nio-blocks/twilio.git
-[submodule "blocks/"]
+[submodule "blocks/state"]
     path = blocks/state
     url = git://github.com/nio-blocks/state.git
 
