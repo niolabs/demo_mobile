@@ -43,4 +43,6 @@
 [submodule "blocks/state"]
     path = blocks/state
     url = git://github.com/nio-blocks/state.git
-
+[submodule "blocks/simplify_polyline"]
+    path = blocks/simplify_polyline
+    url = git://github.com/32bitkid/simplify_polyline.git
