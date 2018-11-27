@@ -36,7 +36,7 @@
     url = git://github.com/nio-blocks/simulator.git
 [submodule "blocks/sliding_window"]
     path = blocks/sliding_window
-    url = git://github.com/32bitkid/sliding_window.git
+    url = git://github.com/nio-blocks/sliding_window.git
 [submodule "blocks/twilio"]
     path = blocks/twilio
     url = git://github.com/nio-blocks/twilio.git
